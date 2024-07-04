@@ -1,0 +1,48 @@
+C:\Users\evriv\ΠΑΠΕΙ\C#\chessgame\chessgame\bin\Debug\chessgame.exe.config
+C:\Users\evriv\ΠΑΠΕΙ\C#\chessgame\chessgame\bin\Debug\chessgame.exe
+C:\Users\evriv\ΠΑΠΕΙ\C#\chessgame\chessgame\bin\Debug\chessgame.pdb
+C:\Users\evriv\ΠΑΠΕΙ\C#\chessgame\chessgame\obj\Debug\chessgame.csprojAssemblyReference.cache
+C:\Users\evriv\ΠΑΠΕΙ\C#\chessgame\chessgame\obj\Debug\chessgame.Form1.resources
+C:\Users\evriv\ΠΑΠΕΙ\C#\chessgame\chessgame\obj\Debug\chessgame.Properties.Resources.resources
+C:\Users\evriv\ΠΑΠΕΙ\C#\chessgame\chessgame\obj\Debug\chessgame.csproj.GenerateResource.cache
+C:\Users\evriv\ΠΑΠΕΙ\C#\chessgame\chessgame\obj\Debug\chessgame.csproj.CoreCompileInputs.cache
+C:\Users\evriv\ΠΑΠΕΙ\C#\chessgame\chessgame\obj\Debug\chessgame.exe
+C:\Users\evriv\ΠΑΠΕΙ\C#\chessgame\chessgame\obj\Debug\chessgame.pdb
+C:\Users\evriv\ΠΑΠΕΙ\C#\Απαλλακτική Εργασία\chessgame\chessgame\bin\Debug\chessgame.exe.config
+C:\Users\evriv\ΠΑΠΕΙ\C#\Απαλλακτική Εργασία\chessgame\chessgame\bin\Debug\chessgame.exe
+C:\Users\evriv\ΠΑΠΕΙ\C#\Απαλλακτική Εργασία\chessgame\chessgame\bin\Debug\chessgame.pdb
+C:\Users\evriv\ΠΑΠΕΙ\C#\Απαλλακτική Εργασία\chessgame\chessgame\obj\Debug\chessgame.csprojAssemblyReference.cache
+C:\Users\evriv\ΠΑΠΕΙ\C#\Απαλλακτική Εργασία\chessgame\chessgame\obj\Debug\chessgame.Form1.resources
+C:\Users\evriv\ΠΑΠΕΙ\C#\Απαλλακτική Εργασία\chessgame\chessgame\obj\Debug\chessgame.Properties.Resources.resources
+C:\Users\evriv\ΠΑΠΕΙ\C#\Απαλλακτική Εργασία\chessgame\chessgame\obj\Debug\chessgame.csproj.GenerateResource.cache
+C:\Users\evriv\ΠΑΠΕΙ\C#\Απαλλακτική Εργασία\chessgame\chessgame\obj\Debug\chessgame.csproj.CoreCompileInputs.cache
+C:\Users\evriv\ΠΑΠΕΙ\C#\Απαλλακτική Εργασία\chessgame\chessgame\obj\Debug\chessgame.exe
+C:\Users\evriv\ΠΑΠΕΙ\C#\Απαλλακτική Εργασία\chessgame\chessgame\obj\Debug\chessgame.pdb
+C:\Users\evriv\ΠΑΠΕΙ\C#\Απαλλακτική Εργασία\chessgame\chessgame\bin\Debug\EntityFramework.dll
+C:\Users\evriv\ΠΑΠΕΙ\C#\Απαλλακτική Εργασία\chessgame\chessgame\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\evriv\ΠΑΠΕΙ\C#\Απαλλακτική Εργασία\chessgame\chessgame\bin\Debug\System.Data.SQLite.dll
+C:\Users\evriv\ΠΑΠΕΙ\C#\Απαλλακτική Εργασία\chessgame\chessgame\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\evriv\ΠΑΠΕΙ\C#\Απαλλακτική Εργασία\chessgame\chessgame\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\evriv\ΠΑΠΕΙ\C#\Απαλλακτική Εργασία\chessgame\chessgame\bin\Debug\EntityFramework.xml
+C:\Users\evriv\ΠΑΠΕΙ\C#\Απαλλακτική Εργασία\chessgame\chessgame\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\evriv\ΠΑΠΕΙ\C#\Απαλλακτική Εργασία\chessgame\chessgame\bin\Debug\System.Data.SQLite.xml
+C:\Users\evriv\ΠΑΠΕΙ\C#\Απαλλακτική Εργασία\chessgame\chessgame\obj\Debug\chessgame.csproj.CopyComplete
+C:\Users\evriv\Desktop\UNIPI\2o ετος\3ο εξαμηνο\C#\Απαλλακτική Εργασία\chessgame\chessgame\bin\Debug\chessgame.exe.config
+C:\Users\evriv\Desktop\UNIPI\2o ετος\3ο εξαμηνο\C#\Απαλλακτική Εργασία\chessgame\chessgame\bin\Debug\chessgame.exe
+C:\Users\evriv\Desktop\UNIPI\2o ετος\3ο εξαμηνο\C#\Απαλλακτική Εργασία\chessgame\chessgame\bin\Debug\chessgame.pdb
+C:\Users\evriv\Desktop\UNIPI\2o ετος\3ο εξαμηνο\C#\Απαλλακτική Εργασία\chessgame\chessgame\bin\Debug\EntityFramework.dll
+C:\Users\evriv\Desktop\UNIPI\2o ετος\3ο εξαμηνο\C#\Απαλλακτική Εργασία\chessgame\chessgame\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\evriv\Desktop\UNIPI\2o ετος\3ο εξαμηνο\C#\Απαλλακτική Εργασία\chessgame\chessgame\bin\Debug\System.Data.SQLite.dll
+C:\Users\evriv\Desktop\UNIPI\2o ετος\3ο εξαμηνο\C#\Απαλλακτική Εργασία\chessgame\chessgame\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\evriv\Desktop\UNIPI\2o ετος\3ο εξαμηνο\C#\Απαλλακτική Εργασία\chessgame\chessgame\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\evriv\Desktop\UNIPI\2o ετος\3ο εξαμηνο\C#\Απαλλακτική Εργασία\chessgame\chessgame\bin\Debug\EntityFramework.xml
+C:\Users\evriv\Desktop\UNIPI\2o ετος\3ο εξαμηνο\C#\Απαλλακτική Εργασία\chessgame\chessgame\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\evriv\Desktop\UNIPI\2o ετος\3ο εξαμηνο\C#\Απαλλακτική Εργασία\chessgame\chessgame\bin\Debug\System.Data.SQLite.xml
+C:\Users\evriv\Desktop\UNIPI\2o ετος\3ο εξαμηνο\C#\Απαλλακτική Εργασία\chessgame\chessgame\obj\Debug\chessgame.csproj.AssemblyReference.cache
+C:\Users\evriv\Desktop\UNIPI\2o ετος\3ο εξαμηνο\C#\Απαλλακτική Εργασία\chessgame\chessgame\obj\Debug\chessgame.Form1.resources
+C:\Users\evriv\Desktop\UNIPI\2o ετος\3ο εξαμηνο\C#\Απαλλακτική Εργασία\chessgame\chessgame\obj\Debug\chessgame.Properties.Resources.resources
+C:\Users\evriv\Desktop\UNIPI\2o ετος\3ο εξαμηνο\C#\Απαλλακτική Εργασία\chessgame\chessgame\obj\Debug\chessgame.csproj.GenerateResource.cache
+C:\Users\evriv\Desktop\UNIPI\2o ετος\3ο εξαμηνο\C#\Απαλλακτική Εργασία\chessgame\chessgame\obj\Debug\chessgame.csproj.CoreCompileInputs.cache
+C:\Users\evriv\Desktop\UNIPI\2o ετος\3ο εξαμηνο\C#\Απαλλακτική Εργασία\chessgame\chessgame\obj\Debug\chessgame.csproj.CopyComplete
+C:\Users\evriv\Desktop\UNIPI\2o ετος\3ο εξαμηνο\C#\Απαλλακτική Εργασία\chessgame\chessgame\obj\Debug\chessgame.exe
+C:\Users\evriv\Desktop\UNIPI\2o ετος\3ο εξαμηνο\C#\Απαλλακτική Εργασία\chessgame\chessgame\obj\Debug\chessgame.pdb
